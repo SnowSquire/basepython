@@ -54,12 +54,6 @@ mypy .
 
 ## Running the Project
 
-[Add instructions on how to run your project here]
-
-## Contributing
-
-[Add contribution guidelines here]
-
-## License
-
-[Add license information here]
+```
+uv run src/main.py
+```
